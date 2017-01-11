@@ -6,6 +6,6 @@ header {
   height: 500px;
 }
 
-#to-top {
+#menu-toggle, #to-top {
   z-index: 1000;
 }
