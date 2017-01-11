@@ -5,3 +5,7 @@ header {
 #map {
   height: 500px;
 }
+
+#to-top {
+  z-index: 1000;
+}
